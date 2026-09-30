@@ -1,0 +1,10 @@
+.env
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.DS_Store
+reports/output/
+knowledge/client_documents/*
+!knowledge/client_documents/.gitkeep
